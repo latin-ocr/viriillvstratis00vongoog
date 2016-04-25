@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./viriillvstratis00vongoog_0035.png"; bbox 0 0 2594 4255; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 196 1014 2566 1447">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 196 1014 2566 1447">
+     <span class='ocr_line' id='line_1_1' title="bbox 196 1014 2548 1227; baseline -0.011 0.068"><span class='ocrx_word' id='word_1_1' title='bbox 196 1085 1182 1227; x_wconf 80' lang='lat' dir='ltr'>G&#39;ODEFRIDI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1315 1104 2175 1223; x_wconf 81' lang='lat' dir='ltr'>GVILIELMI</span> <span class='ocrx_word' id='word_1_3' title='bbox 2301 1014 2362 1081; x_wconf 64' lang='lat'>⁷</span> <span class='ocrx_word' id='word_1_4' title='bbox 2535 1094 2548 1183; x_wconf 94' lang='grc'>·.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 734 1292 2566 1447; baseline -0.011 1"><span class='ocrx_word' id='word_1_5' title='bbox 734 1311 1716 1447; x_wconf 83' lang='lat' dir='ltr'>LEIBNITII</span> <span class='ocrx_word' id='word_1_6' title='bbox 2561 1292 2566 1355; x_wconf 30' lang='grc' dir='ltr'>Ὗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 86 1292 2367 2326">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 86 1292 2570 2260">
+     <span class='ocr_line' id='line_1_3' title="bbox 86 1292 2307 1851; baseline -0.001 -48.918"><span class='ocrx_word' id='word_1_7' title='bbox 86 1292 2307 1851; x_wconf 69' lang='lat' dir='ltr'>&#39;EPISTOLAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 164 1893 2367 2326; baseline -0.01 -66"><span class='ocrx_word' id='word_1_8' title='bbox 164 2197 174 2260; x_wconf 78' lang='lat'>1</span> <span class='ocrx_word' id='word_1_9' title='bbox 469 1893 2043 2326; x_wconf 71' lang='lat' dir='ltr'>DIVEARSOS.</span> <span class='ocrx_word' id='word_1_10' title='bbox 2357 2072 2367 2083; x_wconf 63' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
